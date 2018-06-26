@@ -36,7 +36,7 @@ button {background-color: lightgreen;
         display:flex;
     
         justify-content:center;
-        }
-#gifs-appear-here {clear:both;
-}
+    }
+#gifs-appear-here {position:relative; 
+    left: 100px;}
 label{ padding: 10px;}
